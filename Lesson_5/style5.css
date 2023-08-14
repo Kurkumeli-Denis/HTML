@@ -1,0 +1,58 @@
+
+.top{
+    margin:0 auto;
+    padding:0 auto;
+    width:100%; 
+    max-width:500px;
+    display: inline-flex;
+    text-align: center;
+    
+}
+
+.title{
+    white-space: nowrap;
+    
+}
+.grow{
+    padding: 50px;
+    
+}
+.get{
+    padding: 50px;
+}
+.drive{
+    padding: 50px;
+}
+.button{
+    background: none;
+    border: none;
+}
+.title_body{
+    text-align: center;
+}
+.text1{
+    text-align: center;
+}
+
+.body_bloks{
+    margin:0 auto;
+    padding:0 auto;
+    width:100%; 
+    max-width:500px;
+    display: inline-flex;
+    text-align: center;
+}
+.keyword{
+    padding: 50px;
+}
+.seo{
+    padding: 50px;
+}
+.social{
+    padding: 50px;
+}
+.body_buttons{
+    border-radius: 50px;
+    background-color: #F25822;
+    color: aliceblue;
+}
