@@ -1,0 +1,199 @@
+.header{
+    
+    width: 1600px;
+    height: 75px;
+    background-size: auto;
+    background-color: black;
+}
+.left_logos{
+    display: inline-flex;
+    height: 38px;
+    padding: 20px;
+    padding-left: 231px;
+}
+ .left_logos img{
+    padding-right: 20px;
+    
+}
+.right_logos{
+    display: inline-flex;
+    padding-left: 659px;
+    height: 29px;
+}
+.right_logos img{
+    padding-left: 20px;
+}
+.brand{
+    width: 1600px;
+    height: 764px;
+    background-size: auto;
+    background-color: #F1E4E6;
+    display: inline-flex;
+}
+
+.name{
+    width: 400px;
+    height: 100px;
+    margin-top: 290px;
+    
+    
+    
+}
+.bg{
+    width: 10px;
+    height: 100px;
+    margin-top: 290px;
+    background-color: red;
+}
+.text{
+    padding-left: 20px;
+    margin-bottom: 1px;
+}
+.text2{
+    padding-left: 20px;
+    margin-top: 10px;
+}
+.offer{
+    width: 1140px;
+    height: 470px;
+    padding-left: 230px;
+}
+.woman{
+    width: 360px;
+    height: 260px;
+    margin-top: 65px;
+    background-image: url(./img/for\ woman.png);
+    background-size: auto;
+    position: relative;
+    display: inline-flex;
+    
+}
+.off{
+    position: absolute;
+    text-align: center;
+    color: aliceblue;
+    top: 40%;
+    left: 30%;
+}
+.for{
+    position: absolute;
+    top: 60%;
+    left: 20%;
+    text-align: center;
+    color: rgb(242, 62, 13);
+}
+.men{
+    position: absolute;
+    width: 360px;
+    height: 260px;
+    display: inline-flex;
+    margin-top: 65px;
+    margin-left: 30px;
+}
+.kid{
+    position: absolute;
+    width: 360px;
+    height: 260px;
+    margin-left: 420px;
+    margin-top: 65px;
+    display: inline;
+    background-image: url(./img/kid.jpeg);
+
+}
+.new{
+    position: absolute;
+    text-align: center;
+    color: aliceblue;
+    top: 40%;
+    left: 20%;
+}
+.kids{
+    position: absolute;
+    top: 60%;
+    left: 30%;
+    text-align: center;
+    color: rgb(242, 62, 13);
+}
+.acses{
+    width: 1140px;
+    height: 180px;
+    margin-top: 30px;
+    text-align: center;
+    background-image: url(./img/acses.png);
+
+}
+.lux{
+    padding-top: 65px;
+    color: aliceblue;
+}
+.acce{
+    color: rgb(242, 62, 13);
+}
+.items{
+    width: 1140px;
+    height: 1395px;
+    display: inline;
+    
+}
+.title1{
+    margin-top: 96px;
+    margin-left: 710px;
+   
+}
+.shop{
+    margin-top: 6px;
+    margin-left: 631px;
+}
+.orange_boroda{
+    width: 360px;
+    height: 420px;
+    margin-top: 47px;
+    margin-left: 230px;
+    
+}
+.price{
+    
+    color:deeppink;
+}
+.rich_bitch{
+    
+    width: 360px;
+    height: 420px;
+    margin-top: -420px;
+    margin-left: 620px;
+}
+.text2{
+    margin-left: -30px;
+}
+.bariga{
+    width: 360px;
+    height: 420px;
+    margin-top: -420px;
+    margin-left: 1010px;
+}
+.maga{
+    width: 360px;
+    height: 420px;
+    margin-top: 177px;
+    margin-left: 230px;
+}
+.ruki_v_boki{
+    width: 360px;
+    height: 420px;
+    margin-top: -420px;
+    margin-left: 620px;
+}
+.coffe_with_milk{
+    width: 360px;
+    height: 420px;
+    margin-top: -420px;
+    margin-left: 1010px;
+}
+.but{
+    width: 212px;
+    height: 48px;
+    margin-top: 200px;
+    margin-left: 695px;
+    border: 2px solid;
+    color: rgb(242, 62, 13);
+}
